@@ -1,4 +1,4 @@
 function justInvoke(fn) {
   fn();
-  return fn;
+  return fn();
 }
